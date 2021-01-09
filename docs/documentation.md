@@ -4,7 +4,7 @@
 
 ## Inhaltsverzeichnis
 
-[1. Vorwort](##1.Vorwort)
+[1. Vorwort](##Vorwort)
 
 [2. Spielprinzip](##2.Spielprinzip)
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 1.Vorwort
+## Vorwort
 
 Ich habe mich entschieden, dass Programm Quillion mit Processing zu entwickeln, da ich ein Fan des Spieles Crillion bin. Dieses ist 1988 zum ersten Mal für den Commodore 64 erschienen, wurde von Oliver Kirwa entwickelt und gehört zum Genre Breakout oder auch Logik. Im damaligen Spiel wurden die im Editor erstellten Levels auf einer Diskette gespeichert und konnten somit auch schon damals gespeichert und weitergegeben werden. Meine Eltern erzählten mir, dass der C64 ihr erster Computer war und damals darauf Crillion gespielt haben. Nach dieser Geschichte habe ich mir einen Crillion-Klon für den PC besorgt und war davon begeistert. Es gibt mehrere Klone des Crillion- Spieles für den PC, jedoch empfinde ich "Crillion GPI" als den Besten von diesen. Daher werde ich wenn ich von dem PC - Crillion rede immer den Bezug auf diesen nehmen. Da ich es interessant fand in welcher Form der Editor aufgebaut war, wollte ich einmal selbst solch einen nachprogrammieren. So habe ich einen Klon dieses Crillion- Klons geschrieben. Es gibt jedoch gewisse Unterschiede zwischen meinem Spiel und dem PC- Spiel. Insbesondere Im Editor gibt es unterschiedliche Funktionen, jedoch dazu später mehr.
 
