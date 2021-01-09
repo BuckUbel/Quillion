@@ -10,17 +10,17 @@
 
 [2.1 Objektarten](#Objektarten)
 
-[2.2 Das Spielfeld](#Das Spielfeld)
+[2.2 Das Spielfeld](#Spielfeld)
 
 [3. Menüstruktur](#Menüstruktur)
 
 [3.1 Editor](#Editor)
 
-[4. Entwicklung des Programmes](##Entwicklung des Programmes)
+[4. Entwicklung des Programmes](##Entwicklung-des-Programmes)
 
-[5. Grenzen und Fehler des Programmes](#Grenzen und Fehler des Programmes)
+[5. Grenzen und Fehler des Programmes](#Grenzen-und-Fehler-des-Programmes)
 
-[6. Erweiterungen und zukünftige Ideen](#Erweiterungen und zukünftige Ideen)
+[6. Erweiterungen und zukünftige Ideen](#Erweiterungen-und-zukünftige-Ideen)
 
 [7. Nachwort](#Nachwort)
 
@@ -62,7 +62,7 @@ In Crillion spielt man einen kleinen Ball, der von selbst sich von oben nach unt
 
 Dies sind alles Bilder der Elemente der Klasse Rechteck aus der Datei "Quillion_1_0_0_beta.exe" und liegen in dessen "data"- Ordner zum Abruf bereit.  Sie werden im Programm alle mit der Methode "Bildereinlesen2()" hinzugefügt.
 
-### Das Spielfeld
+### Spielfeld
 
 Man kann in Abbildung 1 ( siehe Anhang, Anlage 2) ein Level sehen. Man sieht, das oben rechts eine Zeit angezeigt wird, diese steht für die aktuelle Uhrzeit, damit man beim Spielen nicht, dass Zeitgefühl verliert. Oben links ist eine Zeitbonuspunkte Zahl zu erkennen, diese wird beim erfolgreichen Beenden des Spieles dem Punktestand hinzugefügt. Jedoch verkleinert sich diese Zahl pro Zeiteinheit. Unten links kann man eine andere Punkteanzeige sehen, welche links anzeigt, wie viele Punkte man in diesem Level besitzt und rechts anzeigt, wie viele Punkte man braucht um das Level erfolgreich zu beenden. Das eigentliche Spiel baut sich in der Mitte auf. Dort gibt es 880 Felder, die alle einen anderen Zustand haben können und somit andere Objekte auf sich platziert haben. Hier kann man einige Blöcke wieder erkennen, wie den Ball, die Mauer, den noHit-, oneHit- und twoHit- Block, den Schlüssel und das Schloss, den USB- Block so wie den Zielstein. Wenn man jetzt alle Steine destruiert hat und man durch den Zielstein gegangen ist, kommt folgendes Fenster ( Anhang, Anlage 2, Abbildung 2). Hier erkennt man oben die Punktezusammenrechnung, mit den Zeitbonuspunkten, den durch die Zerstörung erspielten Punkten, diese zusammengerechnet und den aktuellen Highscore. Nebenbei ertönt zufällig eines der folgenden zwei Lieder ("We are the champions" - Queens, "Sweet Victory" - David Glen Eisley) zu hören. Dann kann man sich entweder im Highscore verewigen, oder man spielt ein weiteres Level um seine Punktzahl zu erhöhen. Kommt man jedoch im Spiel auf einen Todesstein, dann kommt ein Bildschirm in dem eine Animationssequenz abläuft und ein weiterer in dem da steht, dass man gestorben ist. Anschließend kommt man im Highscore hinaus ( Anhang, Anlage 2, Abbildung 3). Wenn man gut genug war, ist man dort drin verewigt. Dort gibt es einen Button mit einem "H", dieses steht für Hauptmenü. Wenn man dort drauf klickt, kommt man im Hauptmenü heraus  ( Anhang, Anlage 2, Abbildung 4).
 
